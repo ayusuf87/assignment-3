@@ -1,0 +1,256 @@
+header{
+    padding: 0px 20px 0px 20px;
+}
+.body{
+    background-color: whitesmoke;
+}
+.ftp p{
+    margin-bottom: 5px;
+}
+.last-line{
+    margin-top: 25px;
+    width: 100%;
+    height: 20px;
+}
+.name{
+    margin: 10px 0px 0px 20px;
+    float: left;
+}
+.img{
+    background-color: red;
+    height: 40px;
+    width: 40px;
+    background-image: url(img/me2.jpg);
+    border-radius: 20px;
+    float: left;
+}
+h1{
+    font-size: 20px;
+}
+.nav{
+    height: 59px;
+    width: 100%;
+    border-bottom: 1px solid black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.logo{
+    background-color: black;
+    height: 60px;
+    width: 150px;
+    float: left;
+    background-image: url(img/wp\ pusher.png);
+}
+.low{
+    margin-top: 10px;
+    float: left;
+    line-height: 8px;
+}
+.low a{
+    color: white;
+    text-decoration: none;
+}
+.box1{
+    height: 395px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+    margin: 0px 10px 0px 0px;
+    padding: 0px 0px 10px 0px;
+}
+.space{
+    height: 100%;
+    width: 41%;
+    float: left;
+}
+.nav-item{
+    height: 80%;
+    width: 110px;
+    float: left;
+    padding: 15px 5px 0px 5px;
+    cursor: pointer;
+}
+.account{
+    height: 30px;
+    width: 90px;
+    border: 1px solid black;
+    border-radius: 10px;
+    float: right;
+    padding: 8px 0px 0px 20px;
+    margin-top: 7px;
+}
+.container{
+    height: 670px;
+    width: 64%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.15);
+    margin: 50px 0px 0px 275px;
+}
+.left{
+    height: 100%;
+    width: 61%;
+    background-color: white;
+    float: left;
+}
+.right{
+    height: 96%;
+    width: 34%;
+    color: white;
+    padding: 30px 0px 0px 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(76, 120, 214);;
+    float: right;
+    border-bottom: 100px;
+}
+.checkout{
+    height: 9%;
+    width: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-bottom: 1px solid whitesmoke;
+    padding: 20px 0px 20px 50px;
+}
+.line1{
+    width: 100%;
+    height: 220px;
+    padding: 5px 0px 0px 35px;
+    border-bottom: 1px solid whitesmoke;
+}
+.line2{
+    width: 100%;
+    height: 25%;
+    padding: 5px 0px 10px 35px;
+    border-bottom: 1px solid whitesmoke;
+}
+.line3{
+    width: 100%;
+    height: 37%;
+    border-bottom: 1px solid whitesmoke;
+}
+.number{
+    height: 28px;
+    width: 28px;
+    padding: 0px;
+    color: rgb(76, 120, 214);
+    border-radius: 14px;
+    border: 2px solid rgb(76, 120, 214);
+    float: left;
+    margin: 10px 15px 10px 0px;
+}
+.number p{
+    font-size: 22px;
+    margin: 0px 0px 0px 7px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.note{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    float: left;
+    margin: 13px 0px 0px 0px;
+}
+.tittle{
+    margin-bottom: 10px;
+    width: 100%;
+    height: 50px;
+}
+label{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    margin-bottom: 10px;
+}
+input{
+    background-color: whitesmoke;
+    border: 1px solid whitesmoke;
+    height: 28px;
+    border-radius: 8px;
+    margin-top: 10px;
+    padding-left: 10px;
+    width: 90%;
+}
+.left2{
+    width: 48%;
+    height: 100%;
+    float: left;
+}
+.right2{
+    width: 48%;
+    height: 100%;
+    float: left;
+}
+.up{
+    float: left;
+    margin-bottom: 3px;
+    height: 80px;
+    width: 100%;
+}
+.shadow{
+    width: 100%;
+}
+.button{
+    width: 80%;
+    height: 27px;
+    background-color: rgb(7, 189, 164);
+    text-align: center;
+    border-radius: 8px;
+    color: white;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 20px 0px 10px 40px;
+}
+.footer-note{
+    margin: 10px 0px 10px 40px;
+    font-size: 14px;
+    font-family: tahoma;
+}
+.f-num1{
+    height: 20px;
+    width: 20px;
+    color: skyblue;
+    background-image: url(img/tick.png);
+    border-radius: 11px;
+    border: 2px solid skyblue;
+    float: left;
+    margin: 16px 10px 10px 0px;
+}
+.f-num{
+    height: 20px;
+    width: 20px;
+    padding: 0px;
+    color: rgb(76, 120, 214);
+    border-radius: 10px;
+    border: 2px solid rgb(76, 120, 214);
+    float: left;
+    margin: 0px 15px 10px 0px;
+}
+.f-num p{
+    font-size: 15px;
+    margin: 0px 0px 0px 7px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.a1{
+    font-size: 20px;
+    float: left;
+    margin: 10px 0px 0px 2px;
+}
+.a2{
+    font-size: 20px;
+    float: left;
+    margin: 30px 0px 0px 2px;
+}
+.k99{
+    font-size: 55px;
+    float: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.anual-pay{
+    width: 80%;
+}
+.note3{
+    width: 100%;
+    margin: 5px 35px 0px 0px;
+    float: left;
+    font-size: 20px;
+}
+.line{
+    width: 100%;
+    height: 35px;
+    float: left;
+}
+.line p{
+    float: left;
+}
